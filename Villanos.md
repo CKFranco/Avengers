@@ -5,3 +5,4 @@
 3.- Venom
 4.- Green goblin
 5.- Loki
+6.- Misterio
